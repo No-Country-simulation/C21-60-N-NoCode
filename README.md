@@ -33,6 +33,8 @@
 
 
 ________________________________________
+
+    
 # ![reunion](https://github.com/user-attachments/assets/38a99c5b-31b9-4fc8-b807-e46d437c9827) Integrantes del equipo BarberLink
 
 
@@ -44,6 +46,8 @@ ________________________________________
 ________________________________________
 ________________________________________
 ________________________________________
+    
+
 > [!IMPORTANT]
 > ![loguito4](https://github.com/user-attachments/assets/c11839c1-2493-4475-b68c-f32b4e02e934)
 > 
@@ -55,6 +59,8 @@ ________________________________________
 >Con el tiempo, BarberLink creció, integrando no solo la reserva de citas, sino también recomendaciones de productos, reseñas y un servicio personalizado que ha transformado la experiencia de ir a la barbería.
 
 ________________________________________
+
+
 ## 📝 Descripción General
 
 ### BarberLink nace para resolver el problema que enfrentan muchos clientes al buscar un barbero talentoso con disponibilidad que se ajuste a sus horarios, a las expectativas de calidad y atención.
@@ -72,6 +78,8 @@ Por otro lado, las **Barberías** pueden:
 :white_check_mark: Recibir y gestionar las reservas de sus clientes de manera centralizada, pudiendo tener un chat interno directo con el Cliente.  
 
 ________________________________________
+
+
 ## 🎯 Propuesta de Valor
 
 Para los **Clientes**:  
@@ -86,6 +94,8 @@ Para las Barberías:
 •	Plataforma en la cual podrán mostrar sus talentos a los potenciales clientes.  
 
 ________________________________________
+
+
 ## 🚀 MVP y Funcionalidades
 
 ### El MVP (Producto Mínimo Viable) de BarberLink incluye las siguientes funcionalidades:
@@ -98,6 +108,8 @@ ________________________________________
 •	Membresía para barberías que ofrece beneficios adicionales, como apariciones destacadas.  
 
 ________________________________________
+
+
 ## 🖥️ Tecnologías Utilizadas
 
 ### BarberLink está siendo desarrollado utilizando plataformas NoCode para facilitar y agilizar el desarrollo:
@@ -108,6 +120,8 @@ ________________________________________
 •	Gestión de Proyecto: Taiga.io y GitHub.  
 
 ________________________________________
+
+
 ## ![IdentidadMarca](https://github.com/user-attachments/assets/228b1281-5126-4c69-b766-53fdd2b83ede)  Identidad de Marca
 
 :star: **Misión**: Generar una plataforma web confiable y accesible que conecte a usuarios con las mejores barberías, facilitando la búsqueda de los servicios de corte y diseño de barba de calidad, personalizados, al mismo tiempo que apoyamos a los barberos a promocionar sus negocios y habilidades, diferenciándolos del resto.  
@@ -121,6 +135,8 @@ ________________________________________
     :zap:	**Comunidad**: Fomentamos sentido de pertenencia entre clientes y barberos, brindandole valor a ambos.  
 
 ________________________________________
+
+
 ## 📈 Competencias y Diferenciación
 
 ### A diferencia de otras plataformas o soluciones existentes, BarberLink se destaca por:  
@@ -130,6 +146,8 @@ ________________________________________
 •	Proporcionar un sistema de membresía que permite a las barberías destacarse y obtener más clientes.  
 
 ________________________________________
+
+
 ## 📢 Contacto
 •	Email: ...
 •	LinkedIn: ...
@@ -138,6 +156,8 @@ ________________________________________
 
 
 ________________________________________
+
+
 > [!NOTE]
 > 
 > # 💻 Tecnologías:
@@ -149,9 +169,11 @@ ________________________________________
 
 
 ________________________________________
+
+
 #  ![presente](https://github.com/user-attachments/assets/756ad63d-473d-4f32-b44b-e8cba5d57124)  Especial Agradecimiento
 
-Todos el equipo C21-60-N-NoCode queremos expresar nuestro más sincero agradecimiento a todo el plantel de **No Country** por brindarnos esta valiosa oportunidad de crecimiento profesional y aprendizaje, por ofrecernos el soporte necesario para combatir las adversidades, para así permitirnos forjar nuestro camino en el mundo laboral con mayor confianza y preparación.
+Todos el equipo **C21-60-N-NoCode** queremos expresar nuestro más sincero agradecimiento a todo el plantel de **No Country** por brindarnos esta valiosa oportunidad de crecimiento profesional y aprendizaje, por ofrecernos el soporte necesario para combatir las adversidades, para así permitirnos forjar nuestro camino en el mundo laboral con mayor confianza y preparación.
 
 ## ¡Muchisimas Gracias por hacer posible esta experiencia!   ![Agradecimiento1](https://github.com/user-attachments/assets/f6565821-e1b0-472b-b5e9-e783d8ceaed1)
 
