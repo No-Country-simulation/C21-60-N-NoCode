@@ -89,6 +89,4 @@ Para cualquier consulta o interés en colaborar, puedes contactarnos a través d
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GitKoteSoft&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
