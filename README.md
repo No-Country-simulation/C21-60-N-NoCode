@@ -3,35 +3,11 @@
 # ![favoritos (2)](https://github.com/user-attachments/assets/5d1b44b5-347e-4d00-8b07-b8af39e68f23)   C21-60-N-NoCode   ![favoritos (2)](https://github.com/user-attachments/assets/5d1b44b5-347e-4d00-8b07-b8af39e68f23)
 
 ###  Proyecto: BarberLink - Plataforma Web de Conexión entre Barberías y Clientes
-
-
-
-
-:heavy_check_mark:
-:white_check_mark:
-:x:
-:negative_squared_cross_mark:
-:registered:
-:copyright:
-:red_square:
-:radio_button:
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-
-
+    
+    
+    
+________________________________________
+________________________________________
 ________________________________________
 
     
@@ -63,10 +39,10 @@ ________________________________________
 
 ## 📝 Descripción General
 
-### BarberLink nace para resolver el problema que enfrentan muchos clientes al buscar un barbero talentoso con disponibilidad que se ajuste a sus horarios, a las expectativas de calidad y atención.
+###     BarberLink nace para resolver el problema que enfrentan muchos clientes al buscar un barbero talentoso con disponibilidad que se ajuste a sus horarios, a las expectativas de calidad y atención.
 
 La plataforma permite a los **Clientes**:  
-:white_check_mark: Crear un perfil donde puedan completar sus datos, ver historial de citas con barberos.  
+:white_check_mark: Crear un perfil donde puedan completar sus datos, ver historial de citas con barberos.    
 :white_check_mark: Buscar barberías cercanas según su ubicación o preferencia.  
 :white_check_mark: Ver calificaciones y reseñas detalladas de las barberías.  
 :white_check_mark: Reservar servicios con facilidad, eligiendo fecha, hora y barbero.  
@@ -83,15 +59,15 @@ ________________________________________
 ## 🎯 Propuesta de Valor
 
 Para los **Clientes**:  
-•	Encontrar al barbero ideal en pocos pasos.  
-•	Calificaciones detalladas y reseñas de otros usuarios.  
-•	Fácil agendamiento de citas y recordatorios automáticos.  
+    ![flash](https://github.com/user-attachments/assets/89bc3526-6836-44fd-a20f-8482e56b1e1c) Encontrar al barbero ideal en pocos pasos.  
+    ![flash](https://github.com/user-attachments/assets/89bc3526-6836-44fd-a20f-8482e56b1e1c) Calificaciones detalladas y reseñas de otros usuarios.  
+    ![flash](https://github.com/user-attachments/assets/89bc3526-6836-44fd-a20f-8482e56b1e1c) Fácil agendamiento de citas y recordatorios automáticos.  
 
-Para las Barberías:  
-•	Un canal de visibilidad directa para atraer nuevos clientes.  
-•	Herramientas para gestionar reservas y servicios de manera eficiente.  
-•	Opción de suscribirse a una membresía para obtener beneficios exclusivos.  
-•	Plataforma en la cual podrán mostrar sus talentos a los potenciales clientes.  
+Para las **Barberías**:  
+    ![flash](https://github.com/user-attachments/assets/89bc3526-6836-44fd-a20f-8482e56b1e1c) Un canal de visibilidad directa para atraer nuevos clientes.  
+    ![flash](https://github.com/user-attachments/assets/89bc3526-6836-44fd-a20f-8482e56b1e1c) Herramientas para gestionar reservas y servicios de manera eficiente.  
+    ![flash](https://github.com/user-attachments/assets/89bc3526-6836-44fd-a20f-8482e56b1e1c) Opción de suscribirse a una membresía para obtener beneficios exclusivos.  
+    ![flash](https://github.com/user-attachments/assets/89bc3526-6836-44fd-a20f-8482e56b1e1c) Plataforma en la cual podrán mostrar sus talentos a los potenciales clientes.  
 
 ________________________________________
 
@@ -100,59 +76,41 @@ ________________________________________
 
 ### El MVP (Producto Mínimo Viable) de BarberLink incluye las siguientes funcionalidades:
 
-•	Registro e inicio de sesión para clientes y barberías.  
-•	Perfil personalizable tanto para clientes como barberías.  
-•	Búsqueda de barberías por ubicación o filtros de calificación.  
-•	Calificación y reseñas de barberías y barberos.  
-•	Sistema de reservas con gestión de citas y notificaciones.  
-•	Membresía para barberías que ofrece beneficios adicionales, como apariciones destacadas.  
+![approved](https://github.com/user-attachments/assets/f6400b63-97fa-456a-9209-7a1b44de468b)    Registro e inicio de sesión para clientes y barberías.  
+![approved](https://github.com/user-attachments/assets/f6400b63-97fa-456a-9209-7a1b44de468b)    Perfil personalizable tanto para clientes como barberías.  
+![approved](https://github.com/user-attachments/assets/f6400b63-97fa-456a-9209-7a1b44de468b)    Búsqueda de barberías por ubicación o filtros de calificación.  
+![approved](https://github.com/user-attachments/assets/f6400b63-97fa-456a-9209-7a1b44de468b)    Calificación y reseñas de barberías y barberos.  
+![approved](https://github.com/user-attachments/assets/f6400b63-97fa-456a-9209-7a1b44de468b)    Sistema de reservas con gestión de citas y notificaciones.  
+![approved](https://github.com/user-attachments/assets/f6400b63-97fa-456a-9209-7a1b44de468b)    Membresía para barberías que ofrece beneficios adicionales, como apariciones destacadas.  
 
-________________________________________
-
-
-## 🖥️ Tecnologías Utilizadas
-
-### BarberLink está siendo desarrollado utilizando plataformas NoCode para facilitar y agilizar el desarrollo:
-
-•	Diseño y Prototipo: Figma (prototipos de baja, media y alta fidelidad, wireframes y mockups).  
-•	Desarrollo Web: Bubble.io (creación de la plataforma web y funcionalidades).  
-•	Mapas y geolocalización: Integración con Google Maps API o alternativas.  
-•	Gestión de Proyecto: Taiga.io y GitHub.  
 
 ________________________________________
 
 
 ## ![IdentidadMarca](https://github.com/user-attachments/assets/228b1281-5126-4c69-b766-53fdd2b83ede)  Identidad de Marca
 
-:star: **Misión**: Generar una plataforma web confiable y accesible que conecte a usuarios con las mejores barberías, facilitando la búsqueda de los servicios de corte y diseño de barba de calidad, personalizados, al mismo tiempo que apoyamos a los barberos a promocionar sus negocios y habilidades, diferenciándolos del resto.  
+###    ![marcadores](https://github.com/user-attachments/assets/ac42a85e-ee22-4576-9c03-1fefc4507bc4)    **Misión**: ###
+Generar una plataforma web confiable y accesible que conecte a usuarios con las mejores barberías, facilitando la búsqueda de los servicios de corte y diseño de barba de calidad, personalizados, al mismo tiempo que apoyamos a los barberos a promocionar sus negocios y habilidades, diferenciándolos del resto.  
 
-:bulb:	**Visión**: Ser la plataforma líder en la industria de barberías, donde los clientes y barberos encuentren un espacio especializado en la conexión y la confianza, impulsando la calidad en el servicio y la satisfacción del cliente.  
+###    ![vision](https://github.com/user-attachments/assets/6f9a9cae-e67f-412d-b40b-9e59e215ca33)    **Visión**: ###
+Ser la plataforma líder en la industria de barberías, donde los clientes y barberos encuentren un espacio especializado en la conexión y la confianza, impulsando la calidad en el servicio y la satisfacción del cliente.  
 
-:zap:	**Valores**:  
-    :zap:	**Conexión**: Simplificamos la comunicación entre usuarios y barberias, impulsando una relacion rapida y segura.  
-    :zap:	**Transparencia**: brindamos informacion clara y detallada que ayuda a los usuarios a tomar las decisiones correctas.  
-    :zap:	**Calidad**: Aseguramos excelencia en el servicio brindado por los barberos a los clientes.  
-    :zap:	**Comunidad**: Fomentamos sentido de pertenencia entre clientes y barberos, brindandole valor a ambos.  
+###    **Valores**: ###  
+![thunder](https://github.com/user-attachments/assets/caf85405-fbc0-49b7-afcd-8ef3d69cbb82)    **Conexión**: Simplificamos la comunicación entre usuarios y barberias, impulsando una relacion rapida y segura.  
+![thunder](https://github.com/user-attachments/assets/caf85405-fbc0-49b7-afcd-8ef3d69cbb82)    **Transparencia**: brindamos informacion clara y detallada que ayuda a los usuarios a tomar las decisiones correctas.  
+![thunder](https://github.com/user-attachments/assets/caf85405-fbc0-49b7-afcd-8ef3d69cbb82)    **Calidad**: Aseguramos excelencia en el servicio brindado por los barberos a los clientes.  
+![thunder](https://github.com/user-attachments/assets/caf85405-fbc0-49b7-afcd-8ef3d69cbb82)    **Comunidad**: Fomentamos sentido de pertenencia entre clientes y barberos, brindandole valor a ambos.  
 
 ________________________________________
 
 
-## 📈 Competencias y Diferenciación
+## ![competition](https://github.com/user-attachments/assets/5a6c2325-d37b-41ec-a452-a607c91694d6)    Competencias y Diferenciación
 
 ### A diferencia de otras plataformas o soluciones existentes, BarberLink se destaca por:  
 
-•	Ofrecer una experiencia integrada de reserva de citas y gestión de barberías.  
-•	Integrar herramientas de calificación y reseñas para garantizar la calidad de los servicios.  
-•	Proporcionar un sistema de membresía que permite a las barberías destacarse y obtener más clientes.  
-
-________________________________________
-
-
-## 📢 Contacto
-•	Email: ...
-•	LinkedIn: ...
-•	Página web: ...
-
+![check](https://github.com/user-attachments/assets/666c82ba-a9d3-4aa6-8e5c-fa21cf8f5666)    Ofrecer una experiencia integrada de reserva de citas y gestión de barberías.  
+![check](https://github.com/user-attachments/assets/666c82ba-a9d3-4aa6-8e5c-fa21cf8f5666)    Integrar herramientas de calificación y reseñas para garantizar la calidad de los servicios.  
+![check](https://github.com/user-attachments/assets/666c82ba-a9d3-4aa6-8e5c-fa21cf8f5666)    Proporcionar un sistema de membresía que permite a las barberías destacarse y obtener más clientes.  
 
 
 ________________________________________
@@ -160,7 +118,7 @@ ________________________________________
 
 > [!NOTE]
 > 
-> # 💻 Tecnologías:
+> # 💻 Tecnologías usadas en el Proyecto:
 >
 > | ![Logo_Figma2](https://github.com/user-attachments/assets/c303bc5b-c626-4dc7-9962-f0e956ee0cd1) | ![Logo_Illustrator4](https://github.com/user-attachments/assets/486dfb08-ca9c-4e23-b9c1-855ab6cdd67c) | ![Logo_Taiga2](https://github.com/user-attachments/assets/953e06e3-88dc-4579-a367-1c01c97c61ac) | ![Logo_Slack2](https://github.com/user-attachments/assets/1d1c3d37-c188-460e-8fcf-8f6d0823a80f) |
 > | :---: | :---: | :---: | :---: |
