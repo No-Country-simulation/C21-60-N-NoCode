@@ -14,10 +14,10 @@ ________________________________________
 # ![reunion](https://github.com/user-attachments/assets/38a99c5b-31b9-4fc8-b807-e46d437c9827) Integrantes del equipo BarberLink
 
 
-| ![Foto Cristian](https://github.com/user-attachments/assets/fe6c1c42-c220-42a6-8bbc-8165fce07207) | ![Foto Ivan](https://github.com/user-attachments/assets/6e6970ff-81ca-4236-8d08-8cdbca7ba344) | ![Foto Saul](https://github.com/user-attachments/assets/c9878fae-d965-4973-aa1f-e04b8abed656) | ![Foto Jose](https://github.com/user-attachments/assets/94eb8c59-bf2e-434f-b6f7-766101f02b66) |
-| :---: | :---: | :---: | :---: |
-| **Cristian R Kase** | **Iván Koteski** | **Saul Pereira** | **José Contreras** |
-| **`Diseñador UX / UI`** | **`Developer Web FullStack`** | **`Developer Web Frontend`** | **`Team Leader`** |
+| ![Foto Cristian](https://github.com/user-attachments/assets/fe6c1c42-c220-42a6-8bbc-8165fce07207) | ![Foto Ivan](https://github.com/user-attachments/assets/6e6970ff-81ca-4236-8d08-8cdbca7ba344) | ![Foto Jose](https://github.com/user-attachments/assets/94eb8c59-bf2e-434f-b6f7-766101f02b66) |
+| :---: | :---: | :---: |
+| **Cristian R Kase** | **Iván Koteski** | **José Contreras** |
+| **`Diseñador UX / UI`** | **`Developer Web FullStack`** | **`Team Leader`** |
 
 ________________________________________
 ________________________________________
@@ -25,8 +25,7 @@ ________________________________________
     
 
 > [!IMPORTANT]
-> ![loguito4](https://github.com/user-attachments/assets/c11839c1-2493-4475-b68c-f32b4e02e934)
-> 
+>  
 > ![Nocountry--Barberia-Isologotipo](https://github.com/user-attachments/assets/485f3e61-47ef-4522-b528-b3535824f68e)
 > <!--# BarberLink :copyright::registered: -->
 >
