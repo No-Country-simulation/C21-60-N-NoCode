@@ -124,6 +124,28 @@ ________________________________________
 > 
 > 
 
+________________________________________
+
+## Capturas del Prototipo Interactivo
+
+###    - Página Principal
+![Pagina Principal](https://github.com/user-attachments/assets/03ae1524-6c96-4776-99d3-f75d8b02e0c5)    
+
+###    - Crear Cuenta
+<img width="4757" alt="Crear Cuenta" src="https://github.com/user-attachments/assets/91b010a7-8ad2-495d-b9ee-d61f6061fb25">    
+
+###    - Menú Barbería
+<img width="4246" alt="Menu Barberia" src="https://github.com/user-attachments/assets/c6161f96-c1dc-4ed9-85b3-c84ec1d00d91">    
+
+###    - Bonificación
+<img width="4063" alt="Bonificacion" src="https://github.com/user-attachments/assets/75a54177-f007-43f6-821c-17a5096d9583">    
+
+###    - Lista de Barberías
+<img width="4185" alt="Lista de Barberias" src="https://github.com/user-attachments/assets/2e2740ec-a47c-4aa9-a1e2-f927545452c8">
+
+
+
+
 
 ________________________________________
 
